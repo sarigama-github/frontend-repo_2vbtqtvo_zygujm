@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "weblinity – Webagentur Münster",
+  "image": "https://example.com/logo.png",
+  "@id": "https://weblinity.de/",
+  "url": "https://weblinity.de/",
+  "telephone": "+49-251-000000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hafenviertel",
+    "addressLocality": "Münster",
+    "postalCode": "48155",
+    "addressCountry": "DE"
+  },
+  "areaServed": "Münster",
+  "sameAs": [
+    "https://www.linkedin.com/",
+    "https://www.instagram.com/"
+  ],
+  "knowsAbout": [
+    "Webdesign Münster",
+    "Webagentur Münster",
+    "WordPress Agentur Münster",
+    "Framer Webdesign",
+    "SEO Optimierung Münster",
+    "Website Relaunch"
+  ]
+}
